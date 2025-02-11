@@ -1,6 +1,6 @@
 # web-push
 
-This is a simple web push notification example using the [web-push](https://www.npmjs.com/package/web-push) library.
+This is a simple web push notification example using the [web-push](https://www.npmjs.com/package/web-push) js library.
 
 
 <div align="center">
