@@ -2,6 +2,13 @@
 
 This is a simple web push notification example using the [web-push](https://www.npmjs.com/package/web-push) library.
 
+
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/4ee20172-8950-47d8-b07c-c13f9dd48e2a)
+
+</div>
+
 ## Installation
 
 ```bash
@@ -29,7 +36,7 @@ VAPID_PUBLIC_KEY=<your-public-key>
 VAPID_PRIVATE_KEY=<your-private-key>
 ```
 
-### Update index.html with the public key
+### Update `index.html` with the public key
 
 ```bash
 applicationServerKey: 'Your public key here'
