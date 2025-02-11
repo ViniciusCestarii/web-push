@@ -36,7 +36,7 @@ VAPID_PUBLIC_KEY=<your-public-key>
 VAPID_PRIVATE_KEY=<your-private-key>
 ```
 
-### Update index.html with the public key
+### Update `index.html` with the public key
 
 ```bash
 applicationServerKey: 'Your public key here'
