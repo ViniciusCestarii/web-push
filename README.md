@@ -76,7 +76,7 @@ npm run send
 
 ## License
 
-[MIT](https://github.com/ViniciusCestarii/web-push/blob/main/LICENSE)
+[MIT](LICENSE)
 
 ## Support
 
