@@ -53,6 +53,10 @@ Copy the subscription values into the .env file.
 npm run send
 ```
 
+## License
+
+[MIT](https://github.com/ViniciusCestarii/web-push/blob/main/LICENSE)
+
 ## Support
 
 [Browser Push compatibility](https://developer.mozilla.org/en-US/docs/Web/API/Push_API#browser_compatibility)
