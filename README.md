@@ -52,7 +52,7 @@ Copy the subscription values into the .env file.
 
 (In a real-world scenario, you would save the subscription object in a database.)
 
-### Send a push notification
+### Send a push notification to yourself!
 
 > Certify that all the .env variables are set.
 
