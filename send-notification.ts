@@ -15,6 +15,11 @@ const pushSubscription = {
   }
 };
 
-webpush.sendNotification(pushSubscription, 'Hello World!')
+const payload = JSON.stringify({
+  title: 'Hello World!',
+  body: 'This is a sample notification sent from the server'
+});
+
+webpush.sendNotification(pushSubscription, payload)
   .then(() => console.log('Notification sent successfully!'))
   .catch(error => console.error('Error sending notification:', error));
